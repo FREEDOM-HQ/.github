@@ -13,5 +13,5 @@ We also hope you can all stick around for the exciting future of the inclusive F
 - 🐧 Fun fact: Our founder likes Linux.
 
 You can check our our websites below for more information.<br>
-https://FREEDOM-hq.github.io/FREEDOM-HQ/<br>
+https://FREEDOM-HQ.github.io/FREEDOM-HQ/<br>
 https://github.com/FREEDOM-HQ/
