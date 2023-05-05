@@ -7,7 +7,7 @@ We're a development group focusing on Linux, Android, and the DSiPaint archival 
 We also hope you can all stick around for the exciting future of the inclusive FREEDOM-HQ scene.
 
 - 🐉 Creator of Dragon Linux.
-- 🧑‍💻 RK3228A speed rom is on it's way.
+- 🧑‍💻 Linux developer.
 - 💻 We're currently working on scripting, and refining servers.
 - 🌐 We have our own website.
 - 🐧 Fun fact: Our founder likes Linux.
